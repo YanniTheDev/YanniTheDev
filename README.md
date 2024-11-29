@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ Currently working on the Final Positive Thursday Ever Website!<br><br>💭 Ask me about tetris, maths, or physics. I like those three things :^). Oh and programming and web development as well of course.<br><br>⚡Fun Fact: I am in the top 50 of Tetr.io players in New Zealand!
+⚒️ Currently working on the Final Positive Thursday Ever Website!<br><br>💭 Ask me about tetris, maths, or physics. I like those three things :^). Oh and programming and web development as well of course.<br><br>⚡Fun Fact: I am a very good competitive Tetris player. Hit me up for a game!
 
 
 ## 🌐 Socials:
