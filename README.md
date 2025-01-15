@@ -1,6 +1,12 @@
 # 💫 About Me:
 Hey there! I am a Year 13 student, living in New Zealand. I aspire to be a full-stack developer!
 
+#### My interests are:
+- Football (or soccer for you Americans :^))
+- Tetris
+- Programming
+- Gaming
+
 You can reach out to me by [Discord](https://discord.com/users/798443559782318121) and [Instagram](https://www.instagram.com/yanxuan_weng/). Also feel free to email me at [yannithedev@gmail.com](yannithedev@gmail.com)
 
 
