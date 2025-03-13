@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I am a Year 13 student, living in New Zealand. I aspire to be a full-stack developer!
+Hey there! I am a Year 13 student, living in New Zealand. I aspire to be ________.
 
 #### My interests are:
 - Football (or soccer for you Americans :^))
