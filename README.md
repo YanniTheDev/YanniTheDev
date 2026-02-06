@@ -1,11 +1,5 @@
 # 💫 About Me:
-Hey there! I am a Year 13 student, living in New Zealand. I aspire to be ________.
-
-#### My interests are:
-- Football (or soccer for you Americans :^))
-- Tetris
-- Programming
-- Gaming
+Studying a Bachelor of Engineering with Honours, majoring in Electrical and Electronic Engineering.
 
 You can reach out to me by [Discord](https://discord.com/users/798443559782318121). Also feel free to email me at [yannithedev@gmail.com](yannithedev@gmail.com)
 
